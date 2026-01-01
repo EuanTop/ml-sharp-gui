@@ -1,0 +1,4 @@
+{
+  "model_path": "~/.cache/torch/hub/checkpoints/",
+  "device": "default"
+}
